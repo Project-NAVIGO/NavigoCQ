@@ -7,7 +7,7 @@ function HomePage() {
       <h1 className="text-4xl font-bold text-green-800">Welcome to NAVIGO 🎉</h1>
     </div>
     <footer className="text-center p-4 bg-gray-200">
-      <p className="text-gray-600">© {new Date()} NAVIGO. All rights reserved.</p>
+      <p>© {new Date().getFullYear()} NAVIGO. All rights reserved.</p>
     </footer>
     </>
   );
