@@ -14,9 +14,15 @@
 - The gh-pages branch is used to store build files which are compiled to run static files.
   - Our deployment to GitHub Pages and Azure is done from gh-pages branch.
     
-- The other optional branches are for merge-pull requests for each contributor, where they will commit their own changes and wait for them to be reviewed.
+- The other branches are created by each member for their commits and changes to the main branch. This is done to ensure a clean workflow for each member.
 
 **Testing Strategy**
 - Unit Testing : Jest
 - Integration Testing : Cypress
 - API Testing : Postman
+
+**Contributors**
+- Yonwaba Vunda
+- Yamkela Vutula
+- Kuhle Bikitsha
+- Katleho Sefuba
