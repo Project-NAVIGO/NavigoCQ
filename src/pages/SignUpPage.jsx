@@ -92,7 +92,7 @@ function SignUpPage() {
     const interval = setInterval(() => {
       if (window.google && window.google.accounts) {
         window.google.accounts.id.initialize({
-          client_id: "957096144049-8fn1o4ftq9hb5mcfj23jb59sqt6pdst1.apps.googleusercontent.com",
+          client_id: "58284097478-u3nc9o5bkoj5bkj7ls1me897sik55at0.apps.googleusercontent.com",
           callback: handleGoogleLogin,
         });
 
