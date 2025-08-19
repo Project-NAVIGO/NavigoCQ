@@ -52,7 +52,7 @@ function LandingPage() {
 
       {/* Footer */}
       <footer className="py-6 bg-indigo-600 text-white text-center">
-        <p>© 2025 NAVIGO. All rights reserved.</p>
+        <p>© {new Date()} NAVIGO. All rights reserved.</p>
       </footer>
     </div>
   );
