@@ -21,8 +21,32 @@
 - Integration Testing : Cypress
 - API Testing : Postman
 
+**Running the project**
+- Install Node.js & npm
+- Verify with:
+  node -v
+  npm -v
+- Navigate to Project & Install Dependencies
+  cd your-project
+  npm install
+- Set Up TailwindCSS
+  npm install -D tailwindcss postcss autoprefixer
+  npx tailwindcss init -p
+- In your CSS file:
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+- Run Tailwind build:
+  npm run dev
+- Run server:
+  node server.js
+  or
+  npx nodemon server.js
+
 **Contributors**
 - Yonwaba Vunda
 - Yamkela Vutula
 - Kuhle Bikitsha
 - Katleho Sefuba
+- Kgaogelo Nkwana
+- Yanga Peter
