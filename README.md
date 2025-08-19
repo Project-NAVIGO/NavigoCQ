@@ -16,11 +16,6 @@
     
 - The other branches are created by each member for their commits and changes to the main branch. This is done to ensure a clean workflow for each member.
 
-**Testing Strategy**
-- Unit Testing : Jest
-- Integration Testing : Cypress
-- API Testing : Postman
-
 **Running the project**
 - Install Node.js & npm
 - Verify with:
@@ -42,11 +37,17 @@
   node server.js
   or
   npx nodemon server.js
-
+  
+**Testing Strategy**
+- Unit Testing : Jest
+- Integration Testing : Cypress
+- API Testing : Postman
+  
 **Contributors**
-- Yonwaba Vunda
-- Yamkela Vutula
-- Kuhle Bikitsha
 - Katleho Sefuba
 - Kgaogelo Nkwana
 - Yanga Peter
+- Yonwaba Vunda
+- Yamkela Vutula
+- Kuhle Bikitsha
+
