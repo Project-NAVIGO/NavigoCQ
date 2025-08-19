@@ -49,5 +49,5 @@
 - Yanga Peter
 - Yonwaba Vunda
 - Yamkela Vutula
-- Kuhle Bikitsh
+- Kuhle Bikitsha
 
